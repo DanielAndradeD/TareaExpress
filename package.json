@@ -1,0 +1,23 @@
+{
+  "name": "tareaexpress",
+  "version": "0.1.0",
+  "description": "Mi primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "env  FORCE_COLOR=1 node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAndradeD/TareaExpress.git"
+  },
+  "author": "Juan Daniel Andrade Duran",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/DanielAndradeD/TareaExpress/issues"
+  },
+  "homepage": "https://github.com/DanielAndradeD/TareaExpress#readme"
+}
